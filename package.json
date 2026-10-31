@@ -1,0 +1,14 @@
+{
+  "name": "linktree-clone",
+  "version": "1.0.0",
+  "description": "Full-stack clone of Linktree with landing page, bio links, admin panel, themes, and analytics",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cookie-parser": "^1.4.6"
+  }
+}
